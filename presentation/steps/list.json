@@ -1,0 +1,158 @@
+[
+    {
+        "uri": "start.html",
+        "id": "title",
+        "class": "step title",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "logic-programming.html",
+        "id": "logic-programming",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 0,
+            "z": 0,
+            "scale": 5,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+
+    {
+        "uri": "facts-rules-queries.html",
+        "id": "facts-rules-queries",
+        "class": "step",
+        "data": {
+            "x": 6000,
+            "y": 6500,
+            "z": 0,
+            "scale": 8,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "facts.html",
+        "id": "facts",
+        "class": "step",
+        "data": {
+            "x": 2500,
+            "y": 6500,
+            "z": 0,
+            "scale": 3,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "rules.html",
+        "id": "rules",
+        "class": "step",
+        "data": {
+            "x": 6000,
+            "y": 6500,
+            "z": 0,
+            "scale": 3,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "queries.html",
+        "id": "queries",
+        "class": "step",
+        "data": {
+            "x": 9500,
+            "y": 6500,
+            "z": 0,
+            "scale": 3,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "terms.html",
+        "id": "terms",
+        "class": "step",
+        "data": {
+            "x": 9500,
+            "y": 3000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": -90
+        }
+    },
+    {
+        "uri": "lists.html",
+        "id": "lists",
+        "class": "step",
+        "data": {
+            "x": 9500,
+            "y": 1000,
+            "z": 0,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "recursion.html",
+        "id": "recursion",
+        "class": "step",
+        "data": {
+            "x": 7000,
+            "y": 1500,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 180
+        }
+    },
+    {
+        "uri": "logic-puzzles.html",
+        "id": "logic-puzzles",
+        "class": "step",
+        "data": {
+            "x": 14000,
+            "y": 5500,
+            "z": 0,
+            "scale": 5,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+
+    },
+    {
+        "uri": "further-reading.html",
+        "id": "further-reading",
+        "class": "step",
+        "data": {
+            "x": 14000,
+            "y": 250,
+            "z": 0,
+            "scale": 5,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    }
+]

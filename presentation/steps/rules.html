@@ -1,0 +1,21 @@
+<h2>Rules</h2>
+
+Things that are conditionally true.
+In the form of
+<i>HEAD</i>:- <i>BODY</i>
+and read as <br>
+<strong>
+    HEAD is true when conditions of BODY are met
+</strong> <br>
+or, simply <br>
+<strong>
+    HEAD if BODY
+</strong>
+
+<pre>
+grumpy(chris):- slowTraffic.
+slowTraffic:-
+    driving(beaverton, portland).
+hungry(ben):- midday.
+lunch(nachos):- dayOfWeek(friday).
+</pre>
